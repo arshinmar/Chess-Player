@@ -12,7 +12,7 @@ It is in many ways like a regular chess game, where a board convention and point
 
 The Minimax algorithm chooses the move that will lead to the most optimal evaluation value after a certain value of depth. An example is shown below.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Minimax.svg/400px-Minimax.svg.png" width="400" height="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Minimax.svg/400px-Minimax.svg.png" width="400" height="400"/>
 
 Alpha-beta pruning is useed to eliminate useless paths to save computational power. This allows for the Minimax algorithm to operate on a greater depth of moves.
 
