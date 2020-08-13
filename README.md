@@ -19,13 +19,19 @@ Alpha-beta pruning is useed to eliminate useless paths to save computational pow
 ## Accomplishments:
 
 Key accomplishments from this assignment include:
+
 • Use of trees to fundamentally operate the Minimax Algorithm.
+
 • Use of various Python libraries such as timeit to conduct time analysis for the appropriate depth.
+
 • Creation of evaluation metrics and evaluation algorithms to pick the optimal "next move".
+
 • Creation of a virtual environment in which it is capable to play a chess game.
 
 ## Challenges and Things to Work On:
 
 Key challenges that occurred during the work of the project include:
+
 • Making syntactical changes to the potential moves calculations that would reduce computational power of those calculations, so that more power could be used on the Minimax algorithm.
+
 • Accurately determining which depth level would be best for a provided time limit and game state.
